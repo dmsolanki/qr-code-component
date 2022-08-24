@@ -17,6 +17,7 @@ Making the QR code card using the HTML and CSS
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
+![](./design/mobile-design.jpg)
 
 ## My process
 
